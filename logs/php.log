@@ -1,0 +1,34 @@
+[Thu Jun 22 10:44:11 2023] PHP 8.1.2-1ubuntu2.11 Development Server (http://0.0.0.0:8080) started
+[Thu Jun 22 10:44:14 2023] 127.0.0.1:59856 Accepted
+[Thu Jun 22 10:44:14 2023] 127.0.0.1:59856 [200]: GET /index.html
+[Thu Jun 22 10:44:14 2023] 127.0.0.1:59856 Closing
+[Thu Jun 22 10:47:19 2023] 127.0.0.1:45168 Accepted
+[Thu Jun 22 10:47:19 2023] 127.0.0.1:45168 [200]: GET /
+[Thu Jun 22 10:47:19 2023] 127.0.0.1:45168 Closing
+[Thu Jun 22 10:47:19 2023] 127.0.0.1:45184 Accepted
+[Thu Jun 22 10:47:19 2023] 127.0.0.1:45184 [200]: GET /js/info.js
+[Thu Jun 22 10:47:19 2023] 127.0.0.1:45184 Closing
+[Thu Jun 22 10:47:20 2023] 127.0.0.1:45192 Accepted
+[Thu Jun 22 10:47:20 2023] 127.0.0.1:45192 [200]: GET /anchor.html
+[Thu Jun 22 10:47:20 2023] 127.0.0.1:45192 Closing
+[Thu Jun 22 10:47:20 2023] 127.0.0.1:45196 Accepted
+[Thu Jun 22 10:47:20 2023] 127.0.0.1:45196 [200]: GET /js/location.js
+[Thu Jun 22 10:47:20 2023] 127.0.0.1:45196 Closing
+[Thu Jun 22 10:47:20 2023] 127.0.0.1:45202 Accepted
+[Thu Jun 22 10:47:20 2023] 127.0.0.1:45202 [200]: GET /css/styles__ltr.css
+[Thu Jun 22 10:47:20 2023] 127.0.0.1:45202 Closing
+[Thu Jun 22 10:47:21 2023] 127.0.0.1:45210 Accepted
+[Thu Jun 22 10:47:21 2023] 127.0.0.1:45210 [200]: GET /images/logo_48.png
+[Thu Jun 22 10:47:21 2023] 127.0.0.1:45210 Closing
+[Thu Jun 22 10:47:21 2023] 127.0.0.1:45226 Accepted
+[Thu Jun 22 10:47:21 2023] 127.0.0.1:45226 [200]: GET /fonts/KFOmCnqEu92Fr1Mu4mxK.woff2
+[Thu Jun 22 10:47:21 2023] 127.0.0.1:45226 Closing
+[Thu Jun 22 10:47:22 2023] 127.0.0.1:39808 Accepted
+[Thu Jun 22 10:47:22 2023] 127.0.0.1:39808 [200]: POST /info_handler.php
+[Thu Jun 22 10:47:22 2023] 127.0.0.1:39808 Closing
+[Thu Jun 22 10:47:51 2023] 127.0.0.1:55062 Accepted
+[Thu Jun 22 10:47:51 2023] 127.0.0.1:55062 [200]: POST /result_handler.php
+[Thu Jun 22 10:47:51 2023] 127.0.0.1:55062 Closing
+[Thu Jun 22 10:47:51 2023] 127.0.0.1:55074 Accepted
+[Thu Jun 22 10:47:51 2023] 127.0.0.1:55074 [404]: GET /github.com/whysixmift - No such file or directory
+[Thu Jun 22 10:47:51 2023] 127.0.0.1:55074 Closing

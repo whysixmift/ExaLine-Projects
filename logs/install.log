@@ -1,0 +1,52 @@
+=====================
+INSTALLING FOR DEBIAN
+=====================
+
+
+WARNING: apt does not have a stable CLI interface. Use with caution in scripts.
+
+Reading package lists...
+Building dependency tree...
+Reading state information...
+python3 is already the newest version (3.10.6-1~22.04).
+python3-pip is already the newest version (22.0.2+dfsg-1ubuntu0.3).
+0 upgraded, 0 newly installed, 0 to remove and 365 not upgraded.
+
+--------------------
+
+
+WARNING: apt does not have a stable CLI interface. Use with caution in scripts.
+
+Reading package lists...
+Building dependency tree...
+Reading state information...
+python3-pip is already the newest version (22.0.2+dfsg-1ubuntu0.3).
+0 upgraded, 0 newly installed, 0 to remove and 365 not upgraded.
+
+--------------------
+
+
+WARNING: apt does not have a stable CLI interface. Use with caution in scripts.
+
+Reading package lists...
+Building dependency tree...
+Reading state information...
+php is already the newest version (2:8.1+92ubuntu1).
+0 upgraded, 0 newly installed, 0 to remove and 365 not upgraded.
+
+--------------------
+
+Defaulting to user installation because normal site-packages is not writeable
+Requirement already satisfied: requests in /usr/lib/python3/dist-packages (2.25.1)
+
+--------------------
+
+Defaulting to user installation because normal site-packages is not writeable
+Requirement already satisfied: packaging in /usr/lib/python3/dist-packages (21.3)
+
+--------------------
+
+=========
+COMPLETED
+=========
+
